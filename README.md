@@ -4,7 +4,7 @@
 ![Capture](https://github.com/Vyshuu/LOGIN-PAGE/blob/main/login.PNG)
 
 
-### check the live Demo : [Login Page](https://Vyshuu.github.io/Login-Page/)
+### check the live Demo : [Login Page](https://vyshuu.github.io/LOGIN-PAGE/)
 
 ### Technologies Used : 
 * [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]()HTML5
