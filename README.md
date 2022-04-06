@@ -1,10 +1,10 @@
 # Login-Page
 💻 A responsive login page
 ### Overview : 
-![Capture](https://user-images.githubusercontent.com/86334640/130306829-932eeb0e-a822-434a-9f91-3e61a24d67d4.PNG)
+![Capture](https://github.com/Vyshuu/LOGIN-PAGE/blob/main/login.PNG)
 
 
-### check the live Demo : [Login Page](https://houssem-ousji.github.io/Login-Page/)
+### check the live Demo : [Login Page](https://Vyshuu.github.io/Login-Page/)
 
 ### Technologies Used : 
 * [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]()HTML5
